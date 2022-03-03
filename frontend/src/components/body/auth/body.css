@@ -1,0 +1,32 @@
+.register{
+    height: 90vh;
+    width:70%;
+    background-color: white;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 1%;
+    margin-left: 17%;
+    padding-top: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    border-color: rgb(216, 214, 216);
+    box-shadow: 0 0 20px #eee;
+   
+    border-style: groove;
+}
+.Hfont{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration-color: #363636;
+}
+
+.regpage{
+
+    display: flex;   
+}
+
+.googlesign{
+    margin-left: 170px;
+    border: #363636;
+    padding: 10px;
+}
